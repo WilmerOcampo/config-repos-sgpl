@@ -1,6 +1,6 @@
 spring:
   application:
-    name: recommendation-service
+    name: loan-service
 
 eureka:
   instance:
